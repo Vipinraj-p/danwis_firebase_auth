@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471417624947",
+    "project_id": "dhanwis-project-5b840",
+    "storage_bucket": "dhanwis-project-5b840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471417624947:android:1990c4139bef387e6e0d06",
+        "android_client_info": {
+          "package_name": "com.example.danwis_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluawufctfyTKTQ_PwPFPW8VFHdyc-z6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
